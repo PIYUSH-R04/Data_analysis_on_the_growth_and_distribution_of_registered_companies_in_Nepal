@@ -59,21 +59,21 @@ Upon running the code following charts are generated:
 
 ## Conclusions
 
-All of these visualizations revealed certain patterns and conclusions, and they are as follows:
+Each of these visualizations highlighted the following trends and conclusions:
 
-- The vast majority of registered corporations are privately owned.
+- The great majority of registered corporations are owned by individuals.
 
--  Kathmandu has the largest number of registered firms.
+- Kathmandu has the most registered businesses.
 
--  Bagmati province is the most devleoped and Karnali province is the least developed in terms of the number of registered companies.
+- In terms of the number of registered enterprises, Bagmati province is the most developed, while Karnali province is the least developed.
 
--  Hilly region is the most developed and Himalayan region is the least developed in terms of the number of companies.
+- In terms of the number of firms, the hilly region is the most developed, while the Himalayan region is the least developed.
 
--  Manang is the least developed district with just 17 registered companies and Kathmandu is the most develped district with 84994 registered firms till 2072 BS.
+- Manang is the least developed district, with only 17 registered businesses, while Kathmandu is the most developed, with 84994 registered businesses as of 2072 BS.
 
--  During early years, Sankhuwasabha was a popular hub for company registration which is a district located in the Himalayan region.
+- During its early years, Sankhuwasabha was a prominent location for company formation in a Himalayan area. 
 
--  The number of firms have expanded tremendously from 2002 to 2072 BS and will presumably keep expanding in years to come.
+- The number of enterprises has increased dramatically from 2002 to 2072 BS and is expected to continue to grow in the coming years. 
 
 - Correlation coefficient of 0.773 shows a strong positive correlation. This indicates that the number of companies will continue to grow as the year progresses.
 
