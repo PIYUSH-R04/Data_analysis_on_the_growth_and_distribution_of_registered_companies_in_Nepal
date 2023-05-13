@@ -31,15 +31,31 @@ Upon running the code following charts are generated:
 
 - Bar chart showcasing the distribution of company by there respective types:
 
-![Bar Chart](./Charts/BarChart.png)
+![type count Chart](./Charts/bar_chart_typeVcount.png)
 
-- Bar chart showcasing the distribution of company among different districts:
+- Bar chart showcasing the distribution of different types of companies by their respective provinces:
 
-![District Chart](./Charts/DistrictChart.png)
+![Province type Chart](./Charts/bar_chart_provVtypeVcount.png)
 
-- Line chart showcasing the growth of registered the companies in Nepal from 2002 BS to 2072 BS:
+- Bar chart showcasing the distribution of different types of companies by their respective regions:
 
-![Line Chart](./Charts/LineChart.png)
+![Region type Chart](./Charts/bar_chart_regionVtypeVcount.png)
+
+- Array of bar charts showcasing the distribution of companies by their respective destricts in each region:
+
+![Region district Chart](./Charts/bar_chart_disctVcountVregion.png)
+
+- Array of bar charts showcasing the distribution of different type of companies by their respective destricts in each province:
+
+![Province district Chart](./Charts/bar_chart_disctVcoutVprov.png)
+
+- Line chart showcasing the growth of registered companies in Nepal from 2002 BS to 2072 BS:
+
+![Line Chart Company](./Charts/line_plot_growth_comp.png)
+
+- Line chart showcasing the growth of different type of registered companies in Nepal from 2002 BS to 2072 BS:
+
+![Line Chart Company_type](./Charts/line_plot_growth_compType.png)
 
 ## Conclusions
 
@@ -55,7 +71,7 @@ Upon close analysis, following conclusions were drawn:
 
 ## Acknowledgement
 
-Source for the csv files:  [Open Data Nepal](https://opendatanepal.com/)
+Source for the csv files of company registration date by their respective districts:  [Open Data Nepal](https://opendatanepal.com/)
 
 ## Author
 
