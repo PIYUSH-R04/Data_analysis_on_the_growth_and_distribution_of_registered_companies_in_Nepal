@@ -59,15 +59,23 @@ Upon running the code following charts are generated:
 
 ## Conclusions
 
-Upon close analysis, following conclusions were drawn:
+All of these visualizations revealed certain patterns and conclusions, and they are as follows:
 
 - The vast majority of registered corporations are privately owned.
 
-- Kathmandu has the largest number of registered firms.
+-  Kathmandu has the largest number of registered firms.
 
-- The number of firms have expanded tremendously from 2002 to 2072 BS and will presumably keep expanding in years to come.
+-  Bagmati province is the most devleoped and Karnali province is the least developed in terms of the number of registered companies.
 
-- Correlation coefficient of 0.772 shows a strong positive correlation. This indicates that the number of companies will continue to grow as the year progresses.
+-  Hilly region is the most developed and Himalayan region is the least developed in terms of the number of companies.
+
+-  Manang is the least developed district with just 17 registered companies and Kathmandu is the most develped district with 84994 registered firms till 2072 BS.
+
+-  During early years, Sankhuwasabha was a popular hub for company registration which is a district located in the Himalayan region.
+
+-  The number of firms have expanded tremendously from 2002 to 2072 BS and will presumably keep expanding in years to come.
+
+- Correlation coefficient of 0.773 shows a strong positive correlation. This indicates that the number of companies will continue to grow as the year progresses.
 
 ## Acknowledgement
 
