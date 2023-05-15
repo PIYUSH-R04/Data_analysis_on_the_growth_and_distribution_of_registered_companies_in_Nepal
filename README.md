@@ -31,7 +31,7 @@ Upon running the code following charts are generated:
 
 - Bar chart showcasing the distribution of company by there respective types:
 
-![type count Chart](./Charts/bar_chart_typeVcount.png)
+![type count Chart](./Charts/bar_chart_ctyp_nm.png)
 
 - Bar chart showcasing the distribution of different types of companies by their respective provinces:
 
